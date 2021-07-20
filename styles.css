@@ -1,0 +1,42 @@
+* {
+      margin: 0px;
+      padding: 0px;
+      box-sizing: border-box;
+}
+
+.Heading {
+      text-align: center;
+}
+
+.Heading2 {
+      text-align: center;
+}
+
+/* .mr-1 {
+      margin-left: ($10 * .25) !important;
+} */
+
+#array {
+      background-color: white;
+      height: 400px;
+      width: 600px;
+      margin: auto;
+      position: relative;
+      margin-top: 64px;
+}
+
+.block {
+      width: 20px;
+      background-color: blue;
+      position: absolute;
+      bottom: 0px;
+      transition: 0.2 all ease;
+}
+
+.block_id {
+      position: absolute;
+      color: black;
+      margin-top: -20px;
+      width: 100%;
+      text-align: center;
+  }
